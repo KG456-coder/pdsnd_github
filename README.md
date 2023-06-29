@@ -10,6 +10,7 @@
     - the most frequent combination of start station and end station 
     - trip durations (total travel time and average travel times) 
     - user info: for ex. counts of each user type, and for NYC and Chicago only: the count of gender and age information (oldest, youngest and most common year of birth)
+* The user also gets an opportunity to see five rows of formatted data at a time.
 
 ## Files used
 * chicago.csv 
@@ -17,8 +18,8 @@
 * washington.csv
 
 ### Credits
-* https://stackoverflow.com/
-* https://pythonguides.com/
+* [Stack Overflow](https://stackoverflow.com/)
+* https://pythonguides.com
 * https://docs.python.org/3/tutorial/errors.html 
 * https://www.w3schools.com/python/python_conditions.asp 
 * Udacity tutors - Abdalla Abdelrahman and Diego Rojo
