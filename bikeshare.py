@@ -187,7 +187,7 @@ def user_stats(df):
         except:
             print('Birth year information is not available')
             break
-    #print("\nThis took %s seconds." % (time.time() - start_time))
+    
     print('-'*40)
 
 
