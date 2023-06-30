@@ -23,4 +23,5 @@
 * https://docs.python.org/3/tutorial/errors.html 
 * https://www.w3schools.com/python/python_conditions.asp 
 * Udacity tutors - Abdalla Abdelrahman and Diego Rojo
+* [Udacity's Programming With Data Science With Python Course](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) (This is the website to enroll, along with the course syllabus!)
 
