@@ -9,7 +9,7 @@
     - popular times of travel 
     - the most frequent combination of start station and end station 
     - trip durations (total travel time and average travel times) 
-    - user info: for ex. counts of each user type, and for NYC and Chicago only: the count of gender and age information (oldest, youngest and most common year of birth)
+    - user information: 1)  the counts of each user type and 2) for NYC and Chicago only: the count of gender and age information- the oldest, youngest and most common year of birth
 * The user also gets an opportunity to see five rows of formatted data at a time.
 
 ## Files used
